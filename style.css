@@ -34,11 +34,11 @@ main {
     padding: 32px;
     display: flex;
     flex-wrap: wrap;
-    gap: 16px;
+    gap: 18px;
     row-gap: 16px;
 }
 
-#left div{
+#left div {
     width: 178px;
     display: flex;
     flex-wrap: wrap;
@@ -54,6 +54,7 @@ button {
     font-weight: 700;
     cursor: pointer;
 }
+
 .locked {
     background: #4a4a4a;
     color: #fff;
